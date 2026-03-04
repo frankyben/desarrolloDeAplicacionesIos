@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "51nL96Abi1L._AC_CR0,0,0,0_SY315_.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "51nL96Abi1L._AC_CR0,0,0,0_SY315_ 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "51nL96Abi1L._AC_CR0,0,0,0_SY315_ 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
